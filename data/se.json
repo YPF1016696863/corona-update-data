@@ -1807,6 +1807,22 @@
       ]
     }
   ],
-  "news": {},
+  "news": [
+    {
+      "place": "Sweden",
+      "message": "SVT: Latest news about the corona virus",
+      "link": "https://www.svt.se/nyheter/utrikes/senaste-nytt-om-coronaviruset"
+    },
+    {
+      "place": "Stockholm",
+      "message": "Case of the new corona virus in Stockholm on March 11",
+      "link": "https://www.sll.se/verksamhet/halsa-och-vard/nyheter-halsa-och-vard/2020/03/fall-av-nya-coronaviruset-i-stockholm-den-11-mars/"
+    },
+    {
+      "place": "USA",
+      "message": "Trump: USA stoppar alla resor från EU",
+      "link": "https://www.svt.se/nyheter/utrikes/trump-usa-stoppar-resor-fran-eu"
+    }
+  ],
   "updatedAt": "2020-03-11 21:50:00"
 }
