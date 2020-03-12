@@ -366,7 +366,7 @@
     },
     {
       "id": "SE-D",
-      "name": "Södermanland",
+      "name": "Sörmland",
       "data": [
         {
           "date": "2020-02-25",
@@ -450,7 +450,7 @@
         },
                 {
           "date": "2020-03-12",
-          "case": "0",
+          "case": "4",
           "died": "0"
         }
       ]
