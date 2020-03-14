@@ -2124,6 +2124,11 @@
   ],
   "news": [
     {
+      "place": "Deaths",
+      "message": "In the afternoon of March 11, the first death in Sweden was reported. It was an elderly person with underlying illness in Stockholm County. On Mars 14, the second death was reported, concerning a 85 year old woman from Västra Götaland region.",
+      "link": "https://www.svt.se/nyheter/snabbkollen/andra-dodsfallet-i-corona-i-sverige"
+    },
+    {
       "place": "Stockholm",
       "message": "sll.se: Om det nya coronaviruset",
       "link": "https://www.sll.se/verksamhet/halsa-och-vard/om-det-nya-coronaviruset/"
