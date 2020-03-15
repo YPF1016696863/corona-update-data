@@ -1,7 +1,7 @@
 {
   "states": [
     {
-      "id": "AG",
+      "id": "CH-AG",
       "name": "Aargau",
       "data": [
         {
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "id": "AI",
+      "id": "CH-AI",
       "name": "Appenzell Innerrhoden",
       "data": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "id": "AR",
+      "id": "CH-AR",
       "name": "Appenzell Ausserrhoden",
       "data": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "id": "BE",
+      "id": "CH-BE",
       "name": "Bern",
       "data": [
         {
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "id": "BL",
+      "id": "CH-BL",
       "name": "Basel Country",
       "data": [
         {
@@ -81,8 +81,8 @@
       ]
     },
     {
-      "id": "BS",
-      "name": "Basel City",
+      "id": "CH-BS",
+      "name": "Basel-Stadt",
       "data": [
         {
           "date": "2020-03-14",
@@ -97,8 +97,8 @@
       ]
     },
     {
-      "id": "FR",
-      "name": "Fribourg",
+      "id": "CH-FR",
+      "name": "Fribourg/Freiburg",
       "data": [
         {
           "date": "2020-03-14",
@@ -113,8 +113,8 @@
       ]
     },
     {
-      "id": "GE",
-      "name": "Geneva",
+      "id": "CH-GE",
+      "name": "Genève",
       "data": [
         {
           "date": "2020-03-14",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "id": "GL",
+      "id": "CH-GL",
       "name": "Glarus",
       "data": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "id": "GR",
+      "id": "CH-GR",
       "name": "Graubünden",
       "data": [
         {
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "id": "JU",
+      "id": "CH-JU",
       "name": "Jura",
       "data": [
         {
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "id": "LU",
-      "name": "Lucerne",
+      "id": "CH-LU",
+      "name": "Luzern",
       "data": [
         {
           "date": "2020-03-14",
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "id": "NE",
+      "id": "CH-NE",
       "name": "Neuchâtel",
       "data": [
         {
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "id": "NW",
+      "id": "CH-NW",
       "name": "Nidwalden",
       "data": [
         {
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "id": "OW",
+      "id": "CH-OW",
       "name": "Obwalden",
       "data": [
         {
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "id": "SG",
+      "id": "CH-SG",
       "name": "St.Gallen",
       "data": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "id": "SH",
+      "id": "CH-SH",
       "name": "Schaffhausen",
       "data": [
         {
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "id": "SO",
+      "id": "CH-SO",
       "name": "Solothurn",
       "data": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "id": "SZ",
+      "id": "CH-SZ",
       "name": "Schwyz",
       "data": [
         {
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "id": "TG",
+      "id": "CH-TG",
       "name": "Thurgau",
       "data": [
         {
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "id": "TI",
+      "id": "CH-TI",
       "name": "Ticino",
       "data": [
         {
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "id": "UR",
+      "id": "CH-UR",
       "name": "Uri",
       "data": [
         {
@@ -353,7 +353,7 @@
       ]
     },
     {
-      "id": "VD",
+      "id": "CH-VD",
       "name": "Vaud",
       "data": [
         {
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "id": "VS",
+      "id": "CH-VS",
       "name": "Valais",
       "data": [
         {
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "id": "ZG",
+      "id": "CH-ZG",
       "name": "Zug",
       "data": [
         {
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "id": "ZH",
+      "id": "CH-ZH",
       "name": "Zürich",
       "data": [
         {
