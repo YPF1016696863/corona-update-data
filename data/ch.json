@@ -1,0 +1,316 @@
+{
+  "states": [
+    {
+      "id": "AG",
+      "name": "Aargau",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "31",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "AI",
+      "name": "Appenzell Innerrhoden",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "0",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "AR",
+      "name": "Appenzell Ausserrhoden",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "5",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "BE",
+      "name": "Bern",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "78",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "BL",
+      "name": "Basel-Land",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "48",
+          "died": "1"
+        }
+      ]
+    },
+    {
+      "id": "BS",
+      "name": "Basel-Stadt",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "119",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "FR",
+      "name": "Fribourg/Freiburg",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "38",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "GE",
+      "name": "Genève",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "107",
+          "died": "1"
+        }
+      ]
+    },
+    {
+      "id": "GL",
+      "name": "Glarus",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "5",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "GR",
+      "name": "Graubünden",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "47",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "JU",
+      "name": "Jura",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "10",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "LU",
+      "name": "Luzern",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "19",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "NE",
+      "name": "Neuchâtel",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "39",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "NW",
+      "name": "Nidwalden",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "5",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "OW",
+      "name": "Obwalden",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "8",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "SG",
+      "name": "St.Gallen",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "26",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "SH",
+      "name": "Schaffhausen",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "1",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "SO",
+      "name": "Solothurn",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "10",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "SZ",
+      "name": "Schwyz",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "13",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "TG",
+      "name": "Thurgau",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "5",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "TI",
+      "name": "Ticino",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "262",
+          "died": "5"
+        }
+      ]
+    },
+    {
+      "id": "UR",
+      "name": "Uri",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "0",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "VD",
+      "name": "Vaud",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "273",
+          "died": "3"
+        }
+      ]
+    },
+    {
+      "id": "VS",
+      "name": "Valais",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "47",
+          "died": "1"
+        }
+      ]
+    },
+    {
+      "id": "ZG",
+      "name": "Zug",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "9",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "ZH",
+      "name": "Zürich",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "148",
+          "died": "0"
+        }
+      ]
+    },
+    {
+      "id": "FL",
+      "name": "the Principality of Liechtenstein.",
+      "data": [
+        {
+          "date": "2020-03-14",
+          "case": "5",
+          "died": "0"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "place": "Switzerland",
+      "message": "Information on the number of confirmed cases of coronavirus",
+      "link": "https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html#-1199962081"
+    },
+    {
+      "place": "world",
+      "message": "Rolling updates on coronavirus(COVID-19)",
+      "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
+    }
+  ],
+  "updatedAt": "2020-03-14 23:59:00"
+}
+
+  

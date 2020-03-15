@@ -2,5 +2,9 @@
   {
     "name": "Sweden",
     "code": "se"
+  },
+  {
+    "name": "Switzerland",
+    "code": "ch"
   }
 ]
