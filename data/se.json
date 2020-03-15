@@ -500,7 +500,7 @@
         },
         {
           "date": "2020-03-14",
-          "case": "0",
+          "case": "8",
           "died": "0"
         }
       ]
@@ -2144,5 +2144,5 @@
       "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
     }
   ],
-  "updatedAt": "2020-03-14 17:30:00"
+  "updatedAt": "2020-03-14 23:59:00"
 }
