@@ -439,7 +439,7 @@
         },
         {
           "date": "2020-03-16",
-          "case": "0",
+          "case": "8",
           "died": "0"
         }
       ]
@@ -550,7 +550,7 @@
         },
         {
           "date": "2020-03-16",
-          "case": "0",
+          "case": "5",
           "died": "1"
         }
       ]
@@ -883,7 +883,7 @@
         },
         {
           "date": "2020-03-16",
-          "case": "2",
+          "case": "3",
           "died": "0"
         }
       ]
@@ -1993,7 +1993,7 @@
         },
         {
           "date": "2020-03-16",
-          "case": "0",
+          "case": "2",
           "died": "0"
         }
       ]
@@ -2326,7 +2326,7 @@
         },
         {
           "date": "2020-03-16",
-          "case": "3",
+          "case": "5",
           "died": "0"
         }
       ]
@@ -2359,5 +2359,5 @@
       "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
     }
   ],
-  "updatedAt": "2020-03-16 16:10:00"
+  "updatedAt": "2020-03-16 19:35:00"
 }
