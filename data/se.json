@@ -113,6 +113,11 @@
           "date": "2020-03-17",
           "case": "33",
           "died": "5"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "36",
+          "died": "5"
         }
       ]
     },
@@ -228,6 +233,11 @@
         {
           "date": "2020-03-17",
           "case": "5",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "1",
           "died": "0"
         }
       ]
@@ -345,6 +355,11 @@
           "date": "2020-03-17",
           "case": "2",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
+          "died": "0"
         }
       ]
     },
@@ -461,6 +476,11 @@
           "date": "2020-03-17",
           "case": "0",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "6",
+          "died": "0"
         }
       ]
     },
@@ -576,7 +596,12 @@
         {
           "date": "2020-03-17",
           "case": "0",
-          "died": "1"
+          "died": "2"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "4",
+          "died": "3"
         }
       ]
     },
@@ -693,6 +718,11 @@
           "date": "2020-03-17",
           "case": "7",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "13",
+          "died": "0"
         }
       ]
     },
@@ -807,6 +837,11 @@
         },
         {
           "date": "2020-03-17",
+          "case": "1",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
           "case": "1",
           "died": "0"
         }
@@ -925,6 +960,11 @@
           "date": "2020-03-17",
           "case": "1",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
+          "died": "0"
         }
       ]
     },
@@ -1040,6 +1080,11 @@
         {
           "date": "2020-03-17",
           "case": "0",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "1",
           "died": "0"
         }
       ]
@@ -1157,6 +1202,11 @@
           "date": "2020-03-17",
           "case": "0",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "2",
+          "died": "0"
         }
     ]
     },
@@ -1272,6 +1322,11 @@
         {
           "date": "2020-03-17",
           "case": "1",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
           "died": "0"
         }
       ]
@@ -1389,6 +1444,11 @@
           "date": "2020-03-17",
           "case": "3",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
+          "died": "1"
         }
       ]
     },
@@ -1504,6 +1564,11 @@
         {
           "date": "2020-03-17",
           "case": "1",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "5",
           "died": "0"
         }
       ]
@@ -1621,6 +1686,11 @@
           "date": "2020-03-17",
           "case": "3",
           "died": "1"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "20",
+          "died": "1"
         }
       ]
     },
@@ -1736,6 +1806,11 @@
         {
           "date": "2020-03-17",
           "case": "3",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
           "died": "0"
         }
       ]
@@ -1853,6 +1928,11 @@
           "date": "2020-03-17",
           "case": "10",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
+          "died": "0"
         }
       ]
     },
@@ -1967,6 +2047,11 @@
         },
         {
           "date": "2020-03-17",
+          "case": "2",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
           "case": "2",
           "died": "0"
         }
@@ -2085,6 +2170,11 @@
           "date": "2020-03-17",
           "case": "0",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "2",
+          "died": "0"
         }
       ]
     },
@@ -2200,6 +2290,11 @@
         {
           "date": "2020-03-17",
           "case": "1",
+          "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "4",
           "died": "0"
         }
       ]
@@ -2317,6 +2412,11 @@
           "date": "2020-03-17",
           "case": "1",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "0",
+          "died": "0"
         }
       ]
     },
@@ -2433,6 +2533,11 @@
           "date": "2020-03-17",
           "case": "1",
           "died": "0"
+        },
+        {
+          "date": "2020-03-18",
+          "case": "2",
+          "died": "0"
         }
       ]
     }
@@ -2445,13 +2550,13 @@
     },
     {
       "place": "Deaths",
-      "message": "New Swedish death: Elderly patient has died in Sörmland",
-      "link": "https://omni.se/nytt-svenskt-dodsfall-aldre-patient-har-dott-i-sormland/a/pLkjxR"
+      "message": "Two new deaths - older people in Sörmland and Skåne",
+      "link": "https://omni.se/forsta-dodsfallet-i-skane-totalt-tio-doda-i-sverige/a/lA5Pv7"
     },
     {
       "place": "Stockholm",
-      "message": "sll.se: Om det nya coronaviruset",
-      "link": "https://www.sll.se/verksamhet/halsa-och-vard/om-det-nya-coronaviruset/"
+      "message": "Doctors are preparing for a huge pandemic in Stockholm",
+      "link": "https://omni.se/stockholmslakare-gor-sig-redo-for-enorm-pandemi/a/qLdqJe"
     },
     {
       "place": "Sweden",
@@ -2464,5 +2569,5 @@
       "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen"
     }
   ],
-  "updatedAt": "2020-03-17 23:59:00"
+  "updatedAt": "2020-03-18 23:59:00"
 }
