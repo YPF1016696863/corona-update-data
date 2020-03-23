@@ -142,7 +142,7 @@
         {
           "date": "2020-03-23",
           "case": "56",
-          "died": "10"
+          "died": "16"
         }
       ]
     },
@@ -726,7 +726,7 @@
         {
           "date": "2020-03-23",
           "case": "11",
-          "died": "4"
+          "died": "6"
         }
       ]
     },
@@ -2770,7 +2770,7 @@
         {
           "date": "2020-03-23",
           "case": "0",
-          "died": "0"
+          "died": "2"
         }
       ]
     },
@@ -3075,8 +3075,8 @@
     },
     {
       "place": "Deaths",
-      "message": "16 people die in the corona virus in Sweden",
-      "link": "https://omni.se/16-personer-doda-i-coronaviruset-i-sverige/a/K39Ox7"
+      "message": "Six new corona deaths in Stockholm last 24 hours",
+      "link": "https://omni.se/sex-nya-coronadodsfall-i-stockholm-senaste-dygnet/a/zGjG04"
     },
     {
       "place": "Stockholm",
